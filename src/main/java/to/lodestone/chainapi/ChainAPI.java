@@ -1,7 +1,7 @@
 package to.lodestone.chainapi;
 
 /**
- * Official API of the Bookshelf Plugin
+ * Official API of the Chain Plugin
  * This interface allows access to certain internals of the teams plugin.
  *
  * @author John Aquino
@@ -20,7 +20,7 @@ public class ChainAPI {
     }
 
     /**
-     * Retrieves the API that Bookshelf uses.
+     * Retrieves the API that Chain uses.
      */
     public static IChainAPI getApi() {
         return api;
