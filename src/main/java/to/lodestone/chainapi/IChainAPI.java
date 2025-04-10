@@ -6,4 +6,6 @@ public interface IChainAPI {
 
     void setMaxDistance(int maxDistance);
 
+    int getMaxDistance();
+
 }
