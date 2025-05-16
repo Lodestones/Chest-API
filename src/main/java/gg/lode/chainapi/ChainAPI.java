@@ -1,4 +1,4 @@
-package to.lodestone.chainapi;
+package gg.lode.chainapi;
 
 /**
  * Official API of the Chain Plugin

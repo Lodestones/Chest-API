@@ -1,4 +1,4 @@
-package to.lodestone.chainapi;
+package gg.lode.chainapi;
 
 public interface IChainAPI {
 
